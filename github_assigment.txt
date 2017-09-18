@@ -1,0 +1,3 @@
+I cloned the disbursements repository from Propublica. This repository contains various scripts for manipulating the House's expenditure reports which published at disbursements.house.gov.
+This repository helps to extract the text from the new disbursement PDF file and generate CSVs after applying Python script on it. Then it add a Bioguide ID column to those CSVs.
+I find this repository interesting because it asks the computer to conduct an instruction and repeat it more than once. The user does not have to do the same work repetitively when a new house rebursement comes out. Also, this repository is free to all the people, which would be beneficial for the people who want to provide the rebursement information to the public. 
